@@ -11,7 +11,6 @@ body{
     background-color: #333333;
 }
 
-
 #content {
     width: 94%;
     margin-top: 15px;
@@ -102,6 +101,11 @@ table#employee_list th {
 tr.row1 {
     background-color: #f2f2f2;
 }
+
 tr.row0 {
     background-color: #ffffff;
+}
+
+select {
+    height: 30px;
 }
